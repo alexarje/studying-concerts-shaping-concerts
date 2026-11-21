@@ -1,0 +1,18 @@
+<svg viewBox="0 0 1024 300" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="arrowhead" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto" markerUnits="userSpaceOnUse"><polygon points="0 0, 10 3.5, 0 7" fill="#1a202c"/></marker><style>text { font-family: 'Space Grotesk',Inter,'Helvetica Neue',Helvetica,Arial,sans-serif; fill: #1a202c; }</style></defs>
+<!-- Inter-disciplinary -->
+  <circle cx="710" cy="150" r="85" fill="#ffffff" stroke="#1a202c" stroke-width="3"/>
+
+  <!-- seven inside: center + hex ring R=12 (clear overlap, still readable) -->
+  <circle cx="710" cy="162" r="8" fill="#ffffff" stroke="#1a202c" stroke-width="1.5"/>
+  <circle cx="699.6" cy="156" r="8" fill="#ffffff" stroke="#1a202c" stroke-width="1.5"/>
+  <circle cx="699.6" cy="144" r="8" fill="#ffffff" stroke="#1a202c" stroke-width="1.5"/>
+  <circle cx="710" cy="138" r="8" fill="#ffffff" stroke="#1a202c" stroke-width="1.5"/>
+  <circle cx="720.4" cy="144" r="8" fill="#ffffff" stroke="#1a202c" stroke-width="1.5"/>
+  <circle cx="720.4" cy="156" r="8" fill="#ffffff" stroke="#1a202c" stroke-width="1.5"/>
+  <circle cx="710" cy="150" r="8" fill="#ffffff" stroke="#1a202c" stroke-width="1.5"/>
+
+  <text x="710" y="24" text-anchor="middle" font-size="27">Inter-</text>
+  <text x="710" y="52" text-anchor="middle" font-size="27">disciplinary</text>
+
+  </svg>

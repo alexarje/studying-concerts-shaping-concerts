@@ -1,0 +1,18 @@
+<svg viewBox="0 0 1024 300" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="arrowhead" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto" markerUnits="userSpaceOnUse"><polygon points="0 0, 10 3.5, 0 7" fill="#1a202c"/></marker><style>text { font-family: 'Space Grotesk',Inter,'Helvetica Neue',Helvetica,Arial,sans-serif; fill: #1a202c; }</style></defs>
+<!-- Cross-disciplinary -->
+  <circle cx="310" cy="150" r="85" fill="#ffffff" stroke="#1a202c" stroke-width="3"/>
+
+  <!-- same layout as Multi (was ring R=50): center + hex inside big circle -->
+  <circle cx="310" cy="200" r="8" fill="#ffffff" stroke="#1a202c" stroke-width="1.5"/>
+  <circle cx="266.7" cy="175" r="8" fill="#ffffff" stroke="#1a202c" stroke-width="1.5"/>
+  <circle cx="266.7" cy="125" r="8" fill="#ffffff" stroke="#1a202c" stroke-width="1.5"/>
+  <circle cx="310" cy="100" r="8" fill="#ffffff" stroke="#1a202c" stroke-width="1.5"/>
+  <circle cx="353.3" cy="125" r="8" fill="#ffffff" stroke="#1a202c" stroke-width="1.5"/>
+  <circle cx="353.3" cy="175" r="8" fill="#ffffff" stroke="#1a202c" stroke-width="1.5"/>
+  <circle cx="310" cy="150" r="8" fill="#ffffff" stroke="#1a202c" stroke-width="1.5"/>
+
+  <text x="310" y="24" text-anchor="middle" font-size="27">Cross-</text>
+  <text x="310" y="52" text-anchor="middle" font-size="27">disciplinary</text>
+
+  </svg>

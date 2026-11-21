@@ -1,0 +1,2 @@
+// Written by tools/make_vibration.py; do not edit.
+Object.assign(window.NUMBERS = window.NUMBERS || {}, {"vib_tone": "77", "vib_seen": "43", "vib_fast": "603", "vib_body": "-1", "vib_paper_diff": "0.005", "vib_n": "116", "vib_groups": "16", "vib_m120_tone": "78", "vib_m120_seen": "42", "vib_left": "61", "vib_120": "-1.2", "vib_120_p": "0.315", "vib_d120": "21", "vib18_tone": "50", "vib18_person": "52", "vib18_static": "46", "vib_db": "4", "vib_pow": "2.6", "vib_ratio": "3.4", "vib_pooled": "1.4"});

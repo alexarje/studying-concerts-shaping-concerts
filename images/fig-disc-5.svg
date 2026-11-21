@@ -1,0 +1,15 @@
+<svg viewBox="0 0 1024 300" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="arrowhead" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto" markerUnits="userSpaceOnUse"><polygon points="0 0, 10 3.5, 0 7" fill="#1a202c"/></marker><style>text { font-family: 'Space Grotesk',Inter,'Helvetica Neue',Helvetica,Arial,sans-serif; fill: #1a202c; }</style></defs>
+<!-- Dotted path with arrow pointing at intra-disciplinary (left) -->
+  <path d="
+      M 910 238
+      L 910 262
+      L 110 262
+      L 110 238"
+        fill="none"
+        stroke="#1a202c"
+        stroke-width="4"
+        stroke-dasharray="4,6"
+        marker-end="url(#arrowhead)"/>
+
+</svg>

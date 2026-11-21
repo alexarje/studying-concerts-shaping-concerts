@@ -1,0 +1,18 @@
+<svg viewBox="0 0 1024 300" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="arrowhead" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto" markerUnits="userSpaceOnUse"><polygon points="0 0, 10 3.5, 0 7" fill="#1a202c"/></marker><style>text { font-family: 'Space Grotesk',Inter,'Helvetica Neue',Helvetica,Arial,sans-serif; fill: #1a202c; }</style></defs>
+<!-- Multi-disciplinary -->
+  <circle cx="510" cy="150" r="85" fill="#ffffff" stroke="#1a202c" stroke-width="3"/>
+
+  <!-- center + hex: ring R=16 so each r=8 satellite is tangent to center (no overlap) and tangent to neighbours -->
+  <circle cx="510" cy="166" r="8" fill="#ffffff" stroke="#1a202c" stroke-width="1.5"/>
+  <circle cx="496.1" cy="158" r="8" fill="#ffffff" stroke="#1a202c" stroke-width="1.5"/>
+  <circle cx="496.1" cy="142" r="8" fill="#ffffff" stroke="#1a202c" stroke-width="1.5"/>
+  <circle cx="510" cy="134" r="8" fill="#ffffff" stroke="#1a202c" stroke-width="1.5"/>
+  <circle cx="523.9" cy="142" r="8" fill="#ffffff" stroke="#1a202c" stroke-width="1.5"/>
+  <circle cx="523.9" cy="158" r="8" fill="#ffffff" stroke="#1a202c" stroke-width="1.5"/>
+  <circle cx="510" cy="150" r="8" fill="#ffffff" stroke="#1a202c" stroke-width="1.5"/>
+
+  <text x="510" y="24" text-anchor="middle" font-size="27">Multi-</text>
+  <text x="510" y="52" text-anchor="middle" font-size="27">disciplinary</text>
+
+  </svg>
